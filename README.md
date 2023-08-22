@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hussain Afroz</h1>
-<h3 align="center">A passionate AI and Ml engineer</h3>
+<h3 align="center">Programmer</h3>
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/hussain-ai/</h3>
 <p align="left">
